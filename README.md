@@ -1,2 +1,3 @@
-### Welcome
-I post whatever here on my GitHub at the current moment.
+**Generalist by design.**
+
+`automotive` · `audio` · `AI` · `OSINT` · `security` · `networking` · `3d printing` · `embedded` · `web`
